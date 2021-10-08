@@ -355,3 +355,7 @@ if ditemukan:
 else:
   print('Nilai',dicari,'tidak ditemukan')
 # algoritma binary search
+
+#hallo ka edwin :D
+#smangat kuliah sama program nya!
+#gajinya dikit lagi turun wehehehe
